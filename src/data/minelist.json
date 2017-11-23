@@ -1,0 +1,23 @@
+[
+  {"list":[{"img":"../../static/images/all_order.png","txt":"我的订单","txt2":"全部订单"}]},
+  {"list":[
+    {"img1":"../../static/images/my_waitpay.png","txt2":"待付款"},
+    {"img1":"../../static/images/my_waitcollect.png","txt2":"待收货"},
+    {"img1":"../../static/images/my_comment.png","txt2":"待评价"},
+    {"img1":"../../static/images/my_return.png","txt2":"退货"}
+  ]},
+  {"list":[{
+    "index":"我的钱包",
+    "list2":[
+      {"tsl":"0","trl":"领取优惠券"},
+      {"tsl":"0.00","trl":"余额"},
+      {"tsl":"0","trl":"达令币"}
+    ]}]
+  },
+  {"list":[
+    {"img2":"../../static/images/my_exchangecoupon.png","txt":"我的优惠券","red":"领取优惠券"},
+    {"img2":"../../static/images/my_like.png","txt":"我的收藏"},
+    {"img2":"../../static/images/my_userprice.png","txt":"我的地址"},
+    {"img2":"../../static/images/my_history.png","txt":"浏览记录"}
+  ]}
+]
